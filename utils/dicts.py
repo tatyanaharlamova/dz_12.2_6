@@ -7,5 +7,3 @@ def get_val(collection, key, default='git'):
                 return collection[k]
             else:
                 return default
-
-
